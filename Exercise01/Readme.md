@@ -1,0 +1,1 @@
+Compute pictures based on the Julia sets for the polynomial $p(z) = z2 + c $with $z ∈ C$ and a fixed $c ∈ C$.
